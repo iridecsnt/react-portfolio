@@ -12,8 +12,9 @@ export const Hero = () => {
           I'm a Junior Software Developer and Graphic Designer with a passion for creating stlylish
           and functional web applications.
         </p>
-        <a href="mailto:dionisiobrianna@gmail.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer"
+        className={styles.contactBtn}>
+          My Resume
         </a>
       </div>
       <img
